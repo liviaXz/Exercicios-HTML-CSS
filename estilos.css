@@ -1,0 +1,37 @@
+body {
+    background-color: #edb4fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+* {
+    font-family: "Kanit", sans-serif;
+}
+H1{
+    color:rgb(255, 0, 111)
+}
+p {
+    color: rgb(0, 123, 255);
+}
+img {
+    width: 250px;
+    height: 250px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: aqua;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+}
